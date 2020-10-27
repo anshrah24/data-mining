@@ -1,0 +1,35 @@
+Opponent,Score (Above 150),Bat first,Won
+Peshawar zalmi,No,No,FALSE
+Multan sultan,No,NO,TRUE
+Quetta gladiators,No ,Yes,FALSE
+Lahore qalanders,No,Yes,TRUE
+Karachi kings,Yes,No,TRUE
+Lahore qalanders,Yes,No,TRUE
+Peshawar zalmi,Yes,Yes,TRUE
+Multan sultan,Yes,Yes,TRUE
+Quetta gladiators,No,No,TRUE
+Karachi kings,No,Yes,FALSE
+Karachi kings,Yes,No,TRUE
+Peshawar zalmi,Yes,No,TRUE
+Lahore qalanders,Yes,No,TRUE
+Multan sultan,No,Yes,FALSE
+Quetta gladiators,Yes,Yes,FALSE
+Peshawar zalmi,Yes,Yes,TRUE
+Karachi kings,No,No,TRUE
+Multan sultan,No,Yes,FALSE
+Karachi kings,Yes,No,TRUE
+Peshawar zalmi,Yes,Yes,FALSE
+Quetta gladiators,No,No,FALSE
+Lahore qalanders,Yes,Yes,TRUE
+Karachi kings,Yes,No,TRUE
+Peshawar zalmi,Yes,No,FALSE
+Quetta gladiators,Yes,Yes,FALSE
+Multan sultan,Yes,No,TRUE
+Lahore qalanders,Yes,Yes,TRUE
+Quetta gladiators,Yes,Yes,FALSE
+Peshawar zalmi,,,Match abandoned
+Karachi kings,Yes,Yes,FALSE
+Lahore qalanders,Yes,Yes,TRUE
+Peshawar zalmi,Yes,Yes,FALSE
+Multan sultan,No,Yes,FALSE
+Karachi kings,No,Yes,FALSE
