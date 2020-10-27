@@ -1,0 +1,35 @@
+Date,Opponent,Score (Above 150),Bat first,Won
+24-Feb-18,Peshawar zalmi,No,No,FALSE
+25-Feb-18,Multan sultan,No,NO,TRUE
+28-Feb-18,Quetta gladiators,No ,Yes,FALSE
+2-Mar-18,Lahore qalanders,No,Yes,TRUE
+4-Mar-18,Karachi kings,Yes,No,TRUE
+8-Mar-18,Lahore qalanders,Yes,No,TRUE
+9-Mar-18,Peshawar zalmi,Yes,Yes,TRUE
+13-Mar-18,Multan sultan,Yes,Yes,TRUE
+15-Mar-18,Quetta gladiators,No,No,TRUE
+16-Mar-18,Karachi kings,No,Yes,FALSE
+18-Mar-18,Karachi kings,Yes,No,TRUE
+25-Mar-18,Peshawar zalmi,Yes,No,TRUE
+14-Feb-19,Lahore qalanders,Yes,No,TRUE
+16-Feb-19,Multan sultan,No,Yes,FALSE
+17-Feb-19,Quetta gladiators,Yes,Yes,FALSE
+22-Feb-19,Peshawar zalmi,Yes,Yes,TRUE
+23-Feb-19,Karachi kings,No,No,TRUE
+26-Feb-19,Multan sultan,No,Yes,FALSE
+27-Feb-19,Karachi kings,Yes,No,TRUE
+1-Mar-19,Peshawar zalmi,Yes,Yes,FALSE
+5-Mar-19,Quetta gladiators,No,No,FALSE
+9-Mar-19,Lahore qalanders,Yes,Yes,TRUE
+14-Mar-19,Karachi kings,Yes,No,TRUE
+15-Mar-19,Peshawar zalmi,Yes,No,FALSE
+20-Feb-19,Quetta gladiators,Yes,Yes,FALSE
+22-Feb-19,Multan sultan,Yes,No,TRUE
+23-Feb-19,Lahore qalanders,Yes,Yes,TRUE
+27-Feb-19,Quetta gladiators,Yes,Yes,FALSE
+28-Feb-19,Peshawar zalmi,,,Match abandoned
+1-Mar-19,Karachi kings,Yes,Yes,FALSE
+4-Mar-19,Lahore qalanders,Yes,Yes,TRUE
+7-Mar-19,Peshawar zalmi,Yes,Yes,FALSE
+8-Mar-19,Multan sultan,No,Yes,FALSE
+14-Mar-19,Karachi kings,No,Yes,FALSE
